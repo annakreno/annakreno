@@ -1,5 +1,5 @@
 # Hi there 👋:
-I am a full stack software engineer with an eye for detail and passion for creative problem solving. My background in account management and hospitality developed my skills as an excellent communicator, project manager, and practiced team player. I've recently completed General Assembly's Software Engineering Immersive program, and am looking for my first full time dev role.
+I am a full stack software engineer with an eye for detail and passion for creative problem solving. I've recently completed General Assembly's Software Engineering Immersive program, and am looking for my first full time dev role. My background in account management and hospitality developed my skills as an excellent communicator, project manager, and practiced team player.
 
 
 ## 🌐 Socials:
